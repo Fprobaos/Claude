@@ -19,8 +19,9 @@ Guarda estos valores a medida que los vayas obteniendo en Fase 1. **Nunca** pegu
 | Token System User (ads_read) | Generado desde el System User | `pendiente` |
 | WhatsApp Phone Number ID | App → WhatsApp → Configuración API | `275114492355236` |
 | WhatsApp Access Token | Igual que arriba | `pendiente` |
-| Número personal de Felipe (destino notificación) | — | `pendiente` |
+| Número personal de Felipe (destino notificación) | — | `541170641114` |
 | Google Sheet `Clientes Meta Ads` (ID) | sheets.google.com | `1JnL3r7P6VY9B1jgR9aLEM37cyqCUxH9gQj_KvjaGb28` |
+| Google Slides Template (ID) | docs.google.com/presentation | `1tDJ8UfDfqAqnRnjaraXUh5sSVsicGEV-Q2A4Iz89Qx0` |
 
 ---
 
